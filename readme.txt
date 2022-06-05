@@ -1,2 +1,2 @@
-Hi , im prathap im from vancouver
-My home town india.
+Hi , I'm Prathap from Vancouver
+My home country: India.
